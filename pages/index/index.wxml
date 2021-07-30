@@ -1,0 +1,12 @@
+<view class='container'>
+  <view class='header'>
+        极验微信小程序4.0插件demo
+  </view>
+  <view class='list'>
+    <button bindtap='toSlide'>popup模式</button>
+    <button bindtap='toBind'>bind模式示例</button>
+    <button bindtap='toMutiple'>多次验证</button>
+    <button bindtap='toAi'>ai模式</button>
+  </view>
+</view>
+
